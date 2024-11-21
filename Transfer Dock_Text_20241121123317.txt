@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+#photo-editor {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+canvas {
+  display: block;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+}
+
+#tools button {
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
